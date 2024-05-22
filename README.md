@@ -8,7 +8,7 @@ WeatherInfo is a simple React weather app that provides real-time weather update
 - Sleek and responsive design for seamless user experience
 
 # Technologies Used
--React: JavaScript library for building user interfaces
--OpenWeatherMap API: Provides weather data and forecasts
--CSS: Styling the user interface
--Git: Version control system for tracking changes
+- React: JavaScript library for building user interfaces
+- OpenWeatherMap API: Provides weather data and forecasts
+- CSS: Styling the user interface
+- Git: Version control system for tracking changes
